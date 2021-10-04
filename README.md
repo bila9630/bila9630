@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hey there, I'm Duc Kieu!
+
+I'm a corporate data science student at SAP. You can find me on **[Linkedin](https://www.linkedin.com/in/viet-duc-kieu-58b498178/)** for additional information.
 
 <!--
 **bila9630/bila9630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
