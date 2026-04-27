@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Duc Kieu!
 
-I'm a student at KIT. You can find me on **[Linkedin](https://www.linkedin.com/in/duc-kieu/)** for additional information.
+I'm a tech trainee at [ING](https://ing.com/) 🦁. You can find me on **[Linkedin](https://www.linkedin.com/in/duc-kieu/)** for additional information.
 
 <!--
 **bila9630/bila9630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
